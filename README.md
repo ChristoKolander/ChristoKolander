@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristoKolander
-- 👀 I’m interested in C# and Angular. .NET Core is great, love it.
+- 👀 Love C#, .NET (Core), and more! Angular nice.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
