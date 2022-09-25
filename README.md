@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChristoKolander
 - 👀 Love C#, .NET (Core), and more! Angular nice.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Hobby coder.
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
