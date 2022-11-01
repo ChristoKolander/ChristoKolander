@@ -1,6 +1,6 @@
 - Hi, I’m @Christo Kolander
 - C#. Net.Core Angular
-- Hobby coder. Back-end mostly.
+- Hobby coder. Back-end mostly. Blazor fan.
 - 📫 How to reach me ... christokolander@hotmail.com
 
 <!---
