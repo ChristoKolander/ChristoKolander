@@ -1,7 +1,7 @@
 - Name: Christo Kolander
 - Like: C# .Net(Core) and Angular
-Prefer: Back end
-Tech: Blazor fan.
+- Prefer: Back end
+- Tech: Blazor fan.
 - 📫 How to reach me ... christokolander@hotmail.com
 
 <!---
